@@ -15,13 +15,11 @@ program clicks the correct answers as soon as possible. You will get
 a (nearly) perfect score!
 
 ## Caveats
-
 + The **bot** part does not work when the questions and/or answers are *randomized*. 
 + Use `kbot QUIZID` to read out the answers
 + if the kahoot is not public on [getkahoot.it](getkahoot.it), this program does not work.
+
 ## Dependencies and Requirements
-
-
 * [python3](https://python-guide-pt-br.readthedocs.io/en/latest/starting/install3/osx/) 
   + Generally just a `brew install python3`
 * [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
@@ -34,6 +32,7 @@ a (nearly) perfect score!
   
 ## FAQ
  + please see the [wiki](https://github.com/reteps/kbot/wiki/FAQ)
+ 
 ## Contributors
 * [reteps](https://github.com/reteps) - Main programming
 * [rydens](https://github.com/rydens) - Documentation
